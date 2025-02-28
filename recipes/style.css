@@ -89,4 +89,6 @@ footer {
 
 footer p {
   padding-top: 15px;
+  padding-left: 10px;
+  font-weight: bold;
 }
