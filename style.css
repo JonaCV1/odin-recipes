@@ -6,8 +6,16 @@
 
 header {
   background-color: black;
+  height: 95px;
+}
+
+header div {
   text-align: center;
-  padding: 20px 0;
+  margin-right: 17px;
+}
+
+header div h1 {
+  padding-top: 15px;
 }
 
 h1 {
@@ -43,4 +51,17 @@ a {
 
 a:visited {
   color: green;
+}
+
+footer {
+  height: 50px;
+  background-color: black;
+  color: white;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+footer p {
+  padding-top: 15px;
 }
